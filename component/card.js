@@ -1,3 +1,3 @@
 function x(a){
-return a;
+return a + a;
 };
